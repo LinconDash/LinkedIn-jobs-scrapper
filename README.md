@@ -181,7 +181,7 @@ git push -u origin your-branch-name
 - Be open to feedback and make necessary changes if requested by the project maintainer i.e me :)
 
 ## License
-This project is licensed under the GNU GENERAL PUBLIC license. See the [LICENSE](#https://github.com/LinconDash/LinkedIn-jobs-scrapper?tab=GPL-3.0-1-ov-file) file for details.
+This project is licensed under the GNU GENERAL PUBLIC license. See the <a href="https://github.com/LinconDash/LinkedIn-jobs-scrapper?tab=GPL-3.0-1-ov-file">LICENSE</a> file for details.
 
 ## Contact
 you have any questions or need further assistance, feel free to contact me at:
