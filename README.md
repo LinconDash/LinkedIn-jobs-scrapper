@@ -1,4 +1,8 @@
 # LinkedIn-jobs-scrapper
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ## Overview
 The LinkedIn Job Scraper is a powerful webscrapping program designed to scrape real-time job postings from the `LinkedIn` platform.
 It processes and cleans the scraped data, exporting it to a CSV file, enabling users to conveniently view and apply for jobs in Excel based on their interests. 
