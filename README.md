@@ -179,7 +179,7 @@ git push -u origin your-branch-name
 ## License
 This project is licensed under the GNU GENERAL PUBLIC license. See the [LICENSE](#https://github.com/LinconDash/LinkedIn-jobs-scrapper?tab=GPL-3.0-1-ov-file) file for details.
 
-# Contact
+## Contact
 you have any questions or need further assistance, feel free to contact me at:
 - **Email:** lincondash02@gmail.com
 - **GitHub:** [LinconDash](https://github.com/LinconDash)
